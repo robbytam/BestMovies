@@ -1,2 +1,11 @@
 # BestMovies
 Movies that are awesome 
+1. Thor: Love and Thunder
+2. Doctor Strange in the Multiverse of Madness
+3. Spider-Man: No Way Home
+4. Eternals
+5. Shang-Chi and The Legend of The Ten Rings
+6. Black Widow
+8. Iron Man
+9. The Incredible Hulk
+10.The Avengers
